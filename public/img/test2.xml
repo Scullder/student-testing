@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<test id='1'>
+		<q>Вопрос о том как что?</q>
+		<ans>Там</ans>
+		<ans>Оно</ans>
+		<ans correct='true'>Может быть</ans>
+	</test>
+	<test id='2'>
+		<q>Вопрос о том как что?</q>
+		<ans>Там</ans>
+		<ans>Оно</ans>
+		<ans correct='true'>Может быть</ans>
+	</test>
+	<test id='2'>
+		<q>Вопрос о том как что?</q>
+		<ans>Там</ans>
+		<ans>Оно</ans>
+		<ans correct='true'>Может быть</ans>
+	</test>
+</root>

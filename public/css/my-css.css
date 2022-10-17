@@ -1,0 +1,86 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+.men{
+  height: 46px;
+}
+.body-col{
+}
+.rl-form{
+  width: 33vw;
+  padding-top: 10vh;
+}
+.rl-main-back{
+  width: 100%;
+  height: 100%;
+  background: #ebf4ff;
+}
+.validate-error-message{
+  width: 100%;
+  text-align: ;
+  font-size: 14px;
+  color: red;
+}
+.validate-error-input{
+  border: 1px solid red;
+}
+.my-text-input{
+  padding: 7px 0 7px 10px;
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.my-link-right{
+  text-align: right;
+}
+
+.directory{
+  background-color: #eee;
+}
+.file-card{
+  text-align: center;
+  position: relative;
+}
+.file-card-selection{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: blue;
+  width: 100%;
+  height: 100%;
+  opacity: .3;
+  border-radius: 3%;
+  display: none;
+}
+.file-img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.file-title{
+  font-size: 13px;
+}
+
+.menu-item{
+  height: 27px;
+  margin-left: 10px;
+}
+.menu-item:hover{
+  text-decoration: underline;
+}
+.menu-item img{
+  margin-right: 5px;
+  width: 23px;
+  height: 23px;
+  margin-bottom: 4px;
+}
+.menu-item a{
+  font-size: 19px;
+}
+
+.directory-back{
+  background: #eee;
+  height: 90vh;
+}
